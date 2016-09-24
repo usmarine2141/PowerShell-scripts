@@ -1,0 +1,6 @@
+{
+  "name": "Powershell-scripts",
+  "tagline": "",
+  "body": "### The Repository of PowerShell Scripts and modules\r\n\r\nThis is a repository of PowerShell shell scripts and modules, organized into folders by intended purpose. All code submitted to this repository is released under the MIT license.\r\n\r\n### Contributing\r\n\r\nIf you would like to contribute, feel free to submit a Pull Request. This is an informal thing, so we're not going to impose an entire Style Guide, but there are a few things to keep in mind just to keep things tidy and readable.\r\n\r\n1. Whitespaces and Carriage Returns are your friends. Please format your code in a readable way, avoiding walls of incomprehensible jibberish, or your pull request will be denied pending cleanup. If this happens to you, please revise your code to make it easier to read. Not sure what you need to do to fix it? reach out to @therealscottcarlow.\r\n\r\n2. Indent. Proper indenting is necessary.\r\n\r\n3. Comments. Use them. people need to know what your script does, and where it does it.\r\n\r\nThat's it! Pretty basic stuff, really.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
